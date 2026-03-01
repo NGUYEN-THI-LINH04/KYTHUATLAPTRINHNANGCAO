@@ -1,0 +1,2 @@
+admin;123456;admin
+gv01;111111;giangvien
